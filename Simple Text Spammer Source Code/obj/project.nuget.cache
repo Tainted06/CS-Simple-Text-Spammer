@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEopfX90lLsi+SvrVppcYbcmuHjzJgJcxmR+ATEgdNyjImlzkzm92B+cZBh05HClTypMHcJaNdIr0SelAHsXTg==",
+  "success": true,
+  "projectFilePath": "Z:\\Coding\\GitHub\\C-Simple-Text-Spammer\\Simple Text Spammer Source Code\\Simple Text Spammer Source Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usman\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MetroModernUI 1.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "MetroModernUI",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
