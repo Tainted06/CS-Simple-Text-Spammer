@@ -42,7 +42,7 @@ namespace Simple_Text_Spammer_Source_Code
             this.metroLink1.Name = "metroLink1";
             this.metroLink1.Size = new System.Drawing.Size(411, 23);
             this.metroLink1.TabIndex = 1;
-            this.metroLink1.Text = "https://github.com/Tainted06/C-Simple-Text-Spammer";
+            this.metroLink1.Text = "https://github.com/Tainted06/CS-Simple-Text-Spammer";
             this.metroLink1.UseSelectable = true;
             this.metroLink1.Click += new System.EventHandler(this.metroLink1_Click);
             // 

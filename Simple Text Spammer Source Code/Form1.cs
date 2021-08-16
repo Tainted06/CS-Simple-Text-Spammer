@@ -19,7 +19,7 @@ namespace Simple_Text_Spammer_Source_Code
 
         private void metroLink1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("cmd", "/C start" + " " + "https://github.com/Tainted06/C-Simple-Text-Spammer");
+            System.Diagnostics.Process.Start("cmd", "/C start" + " " + "https://github.com/Tainted06/CS-Simple-Text-Spammer");
         }
 
         private void metroButton1_Click(object sender, EventArgs e)
@@ -31,7 +31,7 @@ namespace Simple_Text_Spammer_Source_Code
                 int times = Int32.Parse(textBox3.Text); // Setting the amount of times variable
                 for (int i = 0; i < times; i++) // Text Spamming Loop
                 {
-                    SendKeys.Send(message); // Sending the Message
+                    SendKeys.Send(i); // Sending the Message
                     SendKeys.Send("{Enter}"); // Sending the key Enter
                     Thread.Sleep(time); // Waiting for the given amount of time
                 }

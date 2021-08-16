@@ -46,11 +46,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Coding\\GitHub\\C-Simple-Text-Spammer\\Simple Text Spammer Source Code\\Simple Text Spammer Source Code.csproj",
+      "projectUniqueName": "Z:\\Github\\CS-Simple-Text-Spammer\\Simple Text Spammer Source Code\\Simple Text Spammer Source Code.csproj",
       "projectName": "Simple Text Spammer Source Code",
-      "projectPath": "Z:\\Coding\\GitHub\\C-Simple-Text-Spammer\\Simple Text Spammer Source Code\\Simple Text Spammer Source Code.csproj",
+      "projectPath": "Z:\\Github\\CS-Simple-Text-Spammer\\Simple Text Spammer Source Code\\Simple Text Spammer Source Code.csproj",
       "packagesPath": "C:\\Users\\usman\\.nuget\\packages\\",
-      "outputPath": "Z:\\Coding\\GitHub\\C-Simple-Text-Spammer\\Simple Text Spammer Source Code\\obj\\",
+      "outputPath": "Z:\\Github\\CS-Simple-Text-Spammer\\Simple Text Spammer Source Code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

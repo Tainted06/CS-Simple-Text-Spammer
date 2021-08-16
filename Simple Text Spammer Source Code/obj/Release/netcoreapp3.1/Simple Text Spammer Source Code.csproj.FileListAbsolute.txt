@@ -16,3 +16,22 @@ Z:\Coding\GitHub\C-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Relea
 Z:\Coding\GitHub\C-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.dll
 Z:\Coding\GitHub\C-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.pdb
 Z:\Coding\GitHub\C-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.genruntimeconfig.cache
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\bin\Release\netcoreapp3.1\Simple Text Spammer Source Code.exe
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\bin\Release\netcoreapp3.1\Simple Text Spammer Source Code.deps.json
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\bin\Release\netcoreapp3.1\Simple Text Spammer Source Code.runtimeconfig.json
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\bin\Release\netcoreapp3.1\Simple Text Spammer Source Code.runtimeconfig.dev.json
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\bin\Release\netcoreapp3.1\Simple Text Spammer Source Code.dll
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\bin\Release\netcoreapp3.1\Simple Text Spammer Source Code.pdb
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\bin\Release\netcoreapp3.1\MetroFramework.Design.dll
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\bin\Release\netcoreapp3.1\MetroFramework.Fonts.dll
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\bin\Release\netcoreapp3.1\MetroFramework.dll
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.csproj.AssemblyReference.cache
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple_Text_Spammer_Source_Code.Form1.resources
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.csproj.GenerateResource.cache
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.AssemblyInfoInputs.cache
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.AssemblyInfo.cs
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.csproj.CoreCompileInputs.cache
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.csproj.CopyComplete
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.dll
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.pdb
+Z:\Github\CS-Simple-Text-Spammer\Simple Text Spammer Source Code\obj\Release\netcoreapp3.1\Simple Text Spammer Source Code.genruntimeconfig.cache

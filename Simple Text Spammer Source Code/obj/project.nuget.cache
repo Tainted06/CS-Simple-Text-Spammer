@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PEopfX90lLsi+SvrVppcYbcmuHjzJgJcxmR+ATEgdNyjImlzkzm92B+cZBh05HClTypMHcJaNdIr0SelAHsXTg==",
+  "dgSpecHash": "JEav2LfDzNfPSwunAzQWinGFjUed1gZaXfMGh6RTDq5ROEEA1KJZeOanKYG9AIahb/SH9uZVETn4PF0hT2o9dw==",
   "success": true,
-  "projectFilePath": "Z:\\Coding\\GitHub\\C-Simple-Text-Spammer\\Simple Text Spammer Source Code\\Simple Text Spammer Source Code.csproj",
+  "projectFilePath": "Z:\\Github\\CS-Simple-Text-Spammer\\Simple Text Spammer Source Code\\Simple Text Spammer Source Code.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usman\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512"
   ],
