@@ -5,4 +5,4 @@ Just put in the message you want spammed, the amount of times, and the wait time
 
 Contact Tainted#0069 on discord if you have any questions
 
-![Example Gif](https://cdn.upload.systems/uploads/ijFOIMGl.gif "Example Gif")
+![Example Gif](https://github.com/Tainted06/CS-Simple-Text-Spammer/raw/main/Assets/XVMi5tQCIi.gif "Example Gif")
